@@ -75,6 +75,20 @@ A análise dos dados permitiu observar padrões importantes no mercado de trabal
 Profissionais com maior nível de senioridade apresentam maiores médias salariais, enquanto cargos executivos concentram os maiores salários. 
 Também foi possível observar diferenças salariais entre países e regimes de trabalho remoto, mostrando como a localização e o modelo de trabalho influenciam a remuneração na área de dados.
 
+Visualizações
+
+### Salário Médio por Senioridade
+![Salário Médio por Senioridade](graficos/salario Médio por Senioridade.png)
+
+### Distribuição dos salários anuais
+![Distribuição dos salários anuais](graficos/Distribuição dos salários anuais.png)
+
+### Boxplot Salário
+![Boxplot Salário](graficos/Bloxpot salário.png)
+
+### Boxplot da distribuição por senioridade
+![Boxplot por Senioridade](graficos/Bloxpot da distribuição por senioridade.png)
+
 Sobre a Alura:
 
 Parabéns ao time da Alura pela iniciativa de oferecer uma imersão
